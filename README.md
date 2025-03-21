@@ -22,9 +22,10 @@ no meu tempo livre gosto de ler e também ver assuntos relacionados a super-hero
 </div><br/>
 
 
-## 🖥️ Sistema operacional que eu uso
+## 🖥️ Sistema operacional e navegador
 <div style="display: inline_block">
    <img align="center" alt="Ubuntu" src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+   <img align="center" alt="Brave" src = "https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
  
 </div><br/>
 
