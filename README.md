@@ -24,8 +24,8 @@ no meu tempo livre gosto de ler e também ver assuntos relacionados a super-hero
 
 ## 🖥️ Sistema operacional e navegador
 <div style="display: inline_block">
-   <img align="center" alt="Ubuntu" src = "<img alt="Debian package" src="https://img.shields.io/debian/v/:packageName">
-"/>
+   <img align="center" alt="Debian" src = <img alt="Debian package (for distribution)" src="https://img.shields.io/debian/v/:packageName/:distribution">
+
    <img align="center" alt="linux" src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    <img align="center" alt="Brave" src = "https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
  
