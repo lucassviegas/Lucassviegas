@@ -1,4 +1,3 @@
-corrija ## Lucas viegas
 **Estudante**
 Me chamo lucas de souza viegas, tenho 21 anos e sou estudante de engeharia de redes de comunicação da UnB.
 no meu tempo livre gosto de ler e também ver assuntos relacionados a super-herois.
@@ -19,5 +18,5 @@ no meu tempo livre gosto de ler e também ver assuntos relacionados a super-hero
    <img align="center" alt="Debian" src = <img alt="Debian package (for distribution)" src="https://img.shields.io/debian/v/:packageName/:distribution">
    <img align="center" alt="linux" src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    <img align="center" alt="Brave" src = "https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
- 
+
 </div><br/>
